@@ -1,9 +1,10 @@
 # Video Streaming on Demand Project
-Portuguese version: URL
+[Portuguese version](https://github.com/luciano340/p18_copeiroflix_documentation/blob/main/README-EN.md)
+
 ## Overview 🔎
 This project focuses on building a video streaming platform on demand. It is a didactic project designed to cover a wide range of technologies, aiming to provide comprehensive learning opportunities across multiple programming languages and tools.
 
-<img alt="Project Architecture" width="60%" src="https://example.com/project_architecture.png">
+<img alt="Project Architecture" width="60%" src="https://github.com/luciano340/p18_copeiroflix_documentation/blob/main/README.md">
 
 ## Programming Languages Used
 Python

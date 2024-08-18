@@ -1,11 +1,11 @@
 # Projeto de Streaming CopeiroFlix
 
-English Version: URL
+[English Version](https://github.com/luciano340/p18_copeiroflix_documentation/blob/main/README-EN.md)
 
 ## Visão Geral 🔎
 Este projeto é focado na construção de uma plataforma de streaming de vídeo sob demanda. Trata-se de um projeto didático projetado para abranger uma ampla gama de tecnologias, com o objetivo de proporcionar oportunidades de aprendizado abrangente em várias linguagens de programação e ferramentas.
 
-<img alt="Arquitetura do Projeto" width="60%" src="URL">
+<img alt="Arquitetura do Projeto" width="60%" src="https://raw.githubusercontent.com/luciano340/p18_copeiroflix_documentation/main/c4/contexto.png">
 
 ## Linguagens de Programação Utilizadas
 Python
